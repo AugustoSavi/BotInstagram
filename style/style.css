@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+
+body{
+    padding: 10px;
+    background-color: rgb(41, 39, 39);
+}
+.button{
+    display: flex;
+}
+
+
+.startButton {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.startButton:active {
+
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+
+.followButton {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.followButton:active {
+    
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+.stopButton {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.stopButton:active {
+    
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+.unfollowButton {
+    color: #fff;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+.unfollowButton:active {
+    
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.LikefeedButton{
+    color: #fff;
+    background-color: #a805a0;
+    border-color: #a805a0;
+}
+.LikefeedButton:active{
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    box-shadow: 0 9px rgb(92, 89, 89);
+}
