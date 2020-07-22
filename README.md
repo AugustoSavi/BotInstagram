@@ -41,4 +41,4 @@ $ git clone https://github.com/AugustoSavi/Extension-chrome-bot-insta.git
 
 3# Nesse momento abra a entensão e clique em "START"
 
-´´´
+```
