@@ -40,4 +40,5 @@ $ git clone https://github.com/AugustoSavi/Extension-chrome-bot-insta.git
 2# Clique na imagem que deseja começar a curtir( o instagram vai abrir o modo em que as imagens passar para o lado)
 
 3# Nesse momento abra a entensão e clique em "START"
+
 ´´´
