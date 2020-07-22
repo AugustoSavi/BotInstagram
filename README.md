@@ -1,5 +1,5 @@
 <h1 align="center">
-    Maquina de Turing - Teoria da computaçāo
+    Extension chrome 
 </h1>
 
 ## :rocket: Construido por
@@ -7,8 +7,8 @@
   :computer: AugustoSavi <br>
 </div>
 
-## :information_source:  # Referencias 
-https://www.youtube.com/watch?v=v7jJmWCHpI0
+## :information_source:  Referencias 
+https://www.youtube.com/watch?v=v7jJmWCHpI0 <br>
 https://www.youtube.com/watch?v=byTmuZxj2g0&t=338s
 
 ## :information_source:  Tecnologias Usadas
