@@ -29,5 +29,15 @@ $ git clone https://github.com/AugustoSavi/Extension-chrome-bot-insta.git
 # Arraste o reposiotio para dentro da aba de extensões 
 ```
 
+## :information_source: Como fica a entensão
+![dolike](https://user-images.githubusercontent.com/32443720/88189079-07767180-cc0f-11ea-98a6-31f8d8906e32.png)
 
-![image](https://user-images.githubusercontent.com/32443720/88180643-0e4bb700-cc04-11ea-8299-ce6a32a42f7a.png)
+
+## :information_source: Como usar
+```
+1# Pesquise uma tag ou entre em um perfil que queira curtir
+
+2# Clique na imagem que deseja começar a curtir( o instagram vai abrir o modo em que as imagens passar para o lado)
+
+3# Nesse momento abra a entensão e clique em "START"
+´´´
