@@ -4,7 +4,7 @@
 
 ## :rocket: Construido por
 <div align="center">
-  :computer: AugustoSavi <br>
+  :computer: AugustoSavi
 </div>
 
 ## :information_source:  Referencias 
@@ -13,9 +13,11 @@ https://www.youtube.com/watch?v=byTmuZxj2g0&t=338s
 
 ## :information_source:  Tecnologias Usadas
 
-* JavaScript
-* html
-* css
+:heart: JavaScript
+
+:heart: HTML
+
+:heart: CSS
 
 ## :information_source: Executando localmente
 To clone and run this application, you'll need [Git](https://git-scm.com),. From your command line:
